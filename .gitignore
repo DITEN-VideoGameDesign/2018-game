@@ -1,3 +1,9 @@
+# Starter Content will be automatically added by UE4 Editor on project load.
+# NOTE: don't modify its content or changes will be lost.
+StarterContent
+
+# Below rows added by github template for UE4.
+
 # Visual Studio 2015 user specific files
 .vs/
 
